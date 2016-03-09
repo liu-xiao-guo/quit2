@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=quit2
+Exec=quit2
+Icon=quit2/quit2.png
+Terminal=false
+Type=Application
+X-Ubuntu-Touch=true
+

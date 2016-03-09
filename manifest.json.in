@@ -1,0 +1,17 @@
+{
+    "name": "quit2.liu-xiao-guo",
+    "description": "description of quit2",
+    "architecture": "@CLICK_ARCH@",
+    "title": "quit2",
+    "hooks": {
+        "quit2": {
+            "apparmor": "quit2/quit2.apparmor",
+            "desktop":  "quit2/quit2.desktop"
+        }
+    },
+    "version": "0.1",
+    "maintainer": "XiaoGuo, Liu <xiaoguo.liu@canonical.com>",
+    "framework" : "ubuntu-sdk-15.04"
+}
+
+
